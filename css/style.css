@@ -30,7 +30,9 @@ body{
     }
 }
 
-
+.greetings > span:nth-child(1){
+    animation-delay: .2s ;
+}
 
 .description{
     font-size: 1.5rem;
